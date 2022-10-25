@@ -1,0 +1,2 @@
+# HP800G4DM-opencore
+惠普800G4DM的EFI
